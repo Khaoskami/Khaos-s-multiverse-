@@ -5,7 +5,7 @@ A self-contained, Loki-inspired Discord portal website featuring a glowing cosmi
 ## Realm links
 
 - **Yggdrasil** (green): https://discord.gg/NuPMs8zerA
-- **Pleasure Planet** (pink): https://discord.gg/9nQa7TaH3
+- **Pleasure Planet** (pink): https://discord.gg/bXXxS3W4Y3
 - **The Umbral Sanctuary** (purple): https://discord.gg/V7u4RXrtK7
 
 ## Deploy to Vercel
